@@ -3,15 +3,11 @@ The following projects that I've handled since I started writing in Swift.
 
 ### 1. Credit Card Management App (Proof of Concept App) (2019)
 
-##### Programming Language: Swift
+##### Description: An application that monitors user's JREast Credit Card usage and activities. 
 
-##### Architecture: MVVM
+##### Responsible for code development using RxSwift and Unit Testing.
 
-##### Stacks: UIKit, RxSwift, AppleMaps.
-
-##### Role: Pioneered and engineered from scratch. Junior iOS Dev
-
-##### Description: Credit Card Usage Monitoring App for JREast Railway Company in Tokyo, Japan.
+##### Technologies: MVVM, RxSwift, RxCocoa Cocoapods, Github, REST API, GoogleMaps
 
 ##### Location: Tokyo, Japan
 
@@ -26,20 +22,22 @@ The following projects that I've handled since I started writing in Swift.
 
 ### 2. DXC OnBoard Me iOS (2019 - 2021)
 
+##### Description: A digital onboarding application for new hires in the company. It uses digital forms, tax declarations and personal info.
 
-##### Programming Language: Swift
+##### Responsible for leading code development, bug fixes, code reviewer for iOS Technology on the team. Coordinate with apple team to upload iOS application to AppStore. Perform production support on iOS Platform of the project. Making sure Provisioning Profiles, Certificates and Identifiers are up-to-date.
 
-##### Architecture: MVC
-
-##### Stacks: UIKit, RxSwift, AppleMaps.
-
-##### Role: iOS Support
-
-##### Description: --
+##### Technologies: MVC, Swift 4.2, Cocoapods, Alamofire, Github, Apple Push Notifications
 
 ##### Location: DXC Australia, DXC New Zealand
 
-##### Link: --
+##### Link: [AppStore Link](apps.apple.com/ph/app/dxc-onboard-me/id1513544909) 
+
+<p float="left">
+  <img src="images/screen1.gif" width="200" />
+  <img src="images/screen2.gif" width="200" /> 
+  <img src="images/screen3.gif" width="200" />
+  <img src="images/screen4.gif" width="200" />
+</p>
 
 ### 3. DermoPico Hair (2020)
 
