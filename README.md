@@ -3,7 +3,7 @@ The following projects that I've handled since I started writing in Swift.
 
 ### 1. Credit Card Management App (Proof of Concept App) (2019)
 
-##### Description: An application that monitors user's JREast Credit Card usage and activities. 
+##### Description: An application that monitors user's Train Company Credit Card usage and activities. 
 
 ##### Responsible for code development using RxSwift and Unit Testing.
 
@@ -20,7 +20,7 @@ The following projects that I've handled since I started writing in Swift.
   <img src="images/Screen%20Shot%202021-01-20%20at%204.31.51%20PM.png" width="200" />
 </p>
 
-### 2. DXC OnBoard Me iOS (2019 - 2021)
+### 2. Newly Hired On boarding App Tool (2019 - 2021)
 
 ##### Description: A digital onboarding application for new hires in the company. It uses digital forms, tax declarations and personal info.
 
@@ -28,7 +28,7 @@ The following projects that I've handled since I started writing in Swift.
 
 ##### Technologies: MVC, Swift 4.2, Cocoapods, Alamofire, Github, Apple Push Notifications
 
-##### Location: DXC Australia, DXC New Zealand
+##### Location: Australia, New Zealand
 
 ##### Link: [AppStore Link](apps.apple.com/ph/app/dxc-onboard-me/id1513544909) 
 
