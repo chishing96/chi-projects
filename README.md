@@ -3,7 +3,7 @@ The following projects that I've handled since I started writing in Swift.
 
 ### 1. Credit Card Management App (Proof of Concept App) (2019)
 
-##### Description: An application that monitors user's Train Company Credit Card usage and activities. 
+##### Description: An application that monitors user's Credit Card usage and activities. 
 
 ##### Responsible for code development using RxSwift and Unit Testing.
 
@@ -102,6 +102,18 @@ The following projects that I've handled since I started writing in Swift.
 ##### Role: C# Front-End Developer
 
 ##### Description: --
+
+##### Location: Manila
+
+##### Link: --
+
+### 6. Trendflix - Mobile Streaming Mobile App (2021)
+
+
+##### Programming Language: ReactJS, React-Native, AWS (S3, Lambda Function, API Gateway, Cloudfront, IAM, Cloudwatch).
+
+##### Role: Cross Platform Mobile Developer
+
 
 ##### Location: Manila
 
