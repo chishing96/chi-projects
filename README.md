@@ -1,7 +1,7 @@
-# Chi Shing Kent Jonathan Wan Completed iOS Projects
+# Chi Shing Kent Jonathan Wan Completed Projects
 The following projects that I've handled since I started writing in Swift.
 
-### 1. Credit Card Management App (Proof of Concept App) (2019)
+### Credit Card Management App (Proof of Concept App) (2019)
 
 ##### Description: An application that monitors user's Credit Card usage and activities. 
 
@@ -20,7 +20,7 @@ The following projects that I've handled since I started writing in Swift.
   <img src="images/Screen%20Shot%202021-01-20%20at%204.31.51%20PM.png" width="200" />
 </p>
 
-### 2. Newly Hired On boarding App Tool (2019 - 2021)
+### Newly Hired On boarding App Tool (2019 - 2021)
 
 ##### Description: A digital onboarding application for new hires in the company. It uses digital forms, tax declarations and personal info.
 
@@ -39,82 +39,77 @@ The following projects that I've handled since I started writing in Swift.
   <img src="images/screen4.gif" width="200" />
 </p>
 
-### 3. DermoPico Hair (2020)
-
-
-##### Programming Language: Swift
-
-##### Architecture: MVC
-
-##### Stacks: UIKit, CoreBluetooth, REST API, JSON
-
-##### Role: iOS Developer
-
-##### Description: --
-
-##### Location: South Korea
-
-##### Link: --
-
-### 4. DermoPico Skin (2020)
-
-
-##### Programming Language: Swift
-
-##### Architecture: MVC
-
-##### Stacks: UIKit, CoreBluetooth, REST API, JSON
-
-##### Role: iOS Developer
-
-##### Description: --
-
-##### Location: South Korea
-
-##### Link: --
-
-### 5. My Skin Choice (2020)
-
-
-##### Programming Language: Swift
-
-##### Architecture: MVC
-
-##### Stacks: UIKit, CoreBluetooth, REST API, JSON
-
-##### Role: iOS Developer
-
-##### Description: --
-
-##### Location: South Korea
-
-##### Link: --
-
-### 5. Project Gemini - Digital Twin (2020)
-
-
-##### Programming Language: C#
-
-##### Architecture: --
-
-##### Tech: Unity3D
-
-##### Role: C# Front-End Developer
-
-##### Description: --
-
-##### Location: Manila
-
-##### Link: --
-
-### 6. Trendflix - Mobile Streaming Mobile App (2021)
+### Trendflix - Mobile Streaming Mobile App (2021)
 
 
 ##### Programming Language: ReactJS, React-Native, AWS (S3, Lambda Function, API Gateway, Cloudfront, IAM, Cloudwatch).
 
 ##### Role: Cross Platform Mobile Developer
 
+##### Location: Manila
+
+
+### Project Gemini - Digital Twin (2020)
+
+
+##### Programming Language: C#
+
+##### Tech: Unity3D
+
+##### Description: Gamified application that is connected to Rasperberry PI and hosted in AWS to stream Network Data. Suggests smart recommendations of an office network floor.
 
 ##### Location: Manila
 
+<img src="images/gemini.jpg" width="500" />
+
+### DermoPico Hair (2020)
+
+
+##### Programming Language: Swift
+
+##### Architecture: MVC
+
+##### Stacks: UIKit, CoreBluetooth, REST API, JSON
+
+##### Role: iOS Developer
+
+##### Description: --
+
+##### Location: South Korea
+
 ##### Link: --
+
+### DermoPico Skin (2020)
+
+
+##### Programming Language: Swift
+
+##### Architecture: MVC
+
+##### Stacks: UIKit, CoreBluetooth, REST API, JSON
+
+##### Role: iOS Developer
+
+##### Description: --
+
+##### Location: South Korea
+
+##### Link: --
+
+### My Skin Choice (2020)
+
+
+##### Programming Language: Swift
+
+##### Architecture: MVC
+
+##### Stacks: UIKit, CoreBluetooth, REST API, JSON
+
+##### Role: iOS Developer
+
+##### Description: --
+
+##### Location: South Korea
+
+##### Link: --
+
