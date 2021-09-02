@@ -1,13 +1,13 @@
 # Chi Shing Kent Jonathan Wan Completed Projects
 The following projects that I've handled since I started writing in Swift.
 
-### Credit Card Management App (Proof of Concept App) (2019)
+### Credit Card Management (2019)
 
 ##### Description: An application that monitors user's Credit Card usage and activities. 
 
 ##### Responsible for code development using RxSwift and Unit Testing.
 
-##### Technologies: MVVM, RxSwift, RxCocoa Cocoapods, Github, REST API, GoogleMaps
+##### Technologies: Native iOS, MVVM, RxSwift, RxCocoa Cocoapods, Github, REST API, GoogleMaps
 
 ##### Location: Tokyo, Japan
 
@@ -20,13 +20,13 @@ The following projects that I've handled since I started writing in Swift.
   <img src="images/Screen%20Shot%202021-01-20%20at%204.31.51%20PM.png" width="200" />
 </p>
 
-### Newly Hired On boarding App Tool (2019 - 2021)
+### On boarding App (2019 - 2021)
 
 ##### Description: A digital onboarding application for new hires in the company. It uses digital forms, tax declarations and personal info.
 
 ##### Responsible for leading code development, bug fixes, code reviewer for iOS Technology on the team. Coordinate with apple team to upload iOS application to AppStore. Perform production support on iOS Platform of the project. Making sure Provisioning Profiles, Certificates and Identifiers are up-to-date.
 
-##### Technologies: MVC, Swift 4.2, Cocoapods, Alamofire, Github, Apple Push Notifications
+##### Technologies: Native iOS, MVC, Swift 4.2, Cocoapods, Alamofire, Github, Apple Push Notifications
 
 ##### Location: Australia, New Zealand
 
@@ -44,7 +44,7 @@ The following projects that I've handled since I started writing in Swift.
 ##### Programming Language: React-Native, AWS (S3, Lambda Function, API Gateway, Cloudfront, IAM, Cloudwatch, Microsoft SQL).
 ##### Technologies Used: SonarQube and K6 for Security and Performance Testing.
 
-##### Role: Full-Stack Engineer (Front-end, Back-end, UI/UX/ Product Owner/ Scrum Master, Tester)
+##### Role: Full-Stack Engineer (Front-end, Back-end, UI/UX, Product Owner, Tester)
 ##### Team of 2 Developers.
 
 ##### Description: A learning video-streaming platform for employees.
@@ -64,7 +64,6 @@ The following projects that I've handled since I started writing in Swift.
 
 ### Project Gemini - Digital Twin (2020)
 
-
 ##### Programming Language: C#
 
 ##### Tech: Unity3D
@@ -74,55 +73,4 @@ The following projects that I've handled since I started writing in Swift.
 ##### Location: Manila
 
 <img src="images/gemini.jpg" width="500" />
-
-### DermoPico Hair (2020)
-
-
-##### Programming Language: Swift
-
-##### Architecture: MVC
-
-##### Stacks: UIKit, CoreBluetooth, REST API, JSON
-
-##### Role: iOS Developer
-
-##### Description: --
-
-##### Location: South Korea
-
-##### Link: --
-
-### DermoPico Skin (2020)
-
-
-##### Programming Language: Swift
-
-##### Architecture: MVC
-
-##### Stacks: UIKit, CoreBluetooth, REST API, JSON
-
-##### Role: iOS Developer
-
-##### Description: --
-
-##### Location: South Korea
-
-##### Link: --
-
-### My Skin Choice (2020)
-
-
-##### Programming Language: Swift
-
-##### Architecture: MVC
-
-##### Stacks: UIKit, CoreBluetooth, REST API, JSON
-
-##### Role: iOS Developer
-
-##### Description: --
-
-##### Location: South Korea
-
-##### Link: --
 
