@@ -39,15 +39,28 @@ The following projects that I've handled since I started writing in Swift.
   <img src="images/screen4.gif" width="200" />
 </p>
 
-### Trendflix - Mobile Streaming Mobile App (2021)
+### Mobile Streaming Mobile App 2021 - present
 
+##### Programming Language: React-Native, AWS (S3, Lambda Function, API Gateway, Cloudfront, IAM, Cloudwatch, Microsoft SQL).
+##### Technologies Used: SonarQube and K6 for Security and Performance Testing.
 
-##### Programming Language: ReactJS, React-Native, AWS (S3, Lambda Function, API Gateway, Cloudfront, IAM, Cloudwatch).
+##### Role: Full-Stack Engineer (Front-end, Back-end, UI/UX/ Product Owner/ Scrum Master, Tester)
+##### Team of 2 Developers.
 
-##### Role: Cross Platform Mobile Developer
+##### Description: A learning video-streaming platform for employees.
+
+##### Responsible for leading code development, architecture design, testing, provide technical documentation and featuresm design UI/UX, design API Endpoints, bug fixes, code reviewer and Perform performance and security testing.
 
 ##### Location: Manila
 
+<p float="left">
+  <img src="images/sqma1.png" width="200" />
+  <img src="images/sqma2.png" width="200" /> 
+  <img src="images/sqma3.png" width="200" />
+  <img src="images/sqma4.png" width="200" />
+  <img src="images/sqma5.png" width="200" />
+  <img src="images/sqma6.png" width="200" />
+</p>
 
 ### Project Gemini - Digital Twin (2020)
 
