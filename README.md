@@ -77,7 +77,7 @@ The following projects that I've handled since I started writing in Swift, Kotli
   <img src="images/screen4.gif" width="200" />
 </p>
 
-### Mobile Streaming Mobile App 2021 - present
+### Mobile Streaming Mobile App 2021 - 2022
 
 ##### Programming Language: React-Native, AWS (S3, Lambda Function, API Gateway, Cloudfront, IAM, Cloudwatch, Microsoft SQL).
 ##### Technologies Used: SonarQube and K6 for Security and Performance Testing.
