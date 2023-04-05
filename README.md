@@ -20,6 +20,44 @@ The following projects that I've handled since I started writing in Swift.
   <img src="images/Screen%20Shot%202021-01-20%20at%204.31.51%20PM.png" width="200" />
 </p>
 
+
+### DermoPico Hair (2020)
+
+##### Description: An application detect hair impurities and suggest products based on company's algorithm. 
+
+##### Responsible for code development using RxSwift and Unit Testing.
+
+##### Technologies: Native iOS, MVVM, RxSwift, RxCocoa Cocoapods, Github, REST API, GoogleMaps
+
+##### Location: Seoul, South Korea
+
+##### Link: https://apps.apple.com/us/app/dermopico-hair/id1270671201
+
+<p float="left">
+  <img src="images/460x0w%20(3).webp" width="200" />
+  <img src="images/460x0w%20(4).webp" width="200" />
+  <img src="images/460x0w%20(5).webp" width="200" />
+</p>
+
+
+### DermoPico Skin (2020)
+
+##### Description: An application detect skin impurities and suggest products based on company's algorithm. 
+
+##### Responsible for code development using RxSwift and Unit Testing.
+
+##### Technologies: Native iOS, MVVM, RxSwift, RxCocoa Cocoapods, Github, REST API, GoogleMaps
+
+##### Location: Seoul, South Korea
+
+##### Link: https://apps.apple.com/us/app/dermopico-hair/id1270671201
+
+<p float="left">
+  <img src="images/460x0w.webp" width="200" />
+  <img src="images/460x0w%20(1).webp" width="200" />
+  <img src="images/460x0w%20(2).webp" width="200" />
+</p>
+
 ### On boarding App (2019 - 2021)
 
 ##### Description: A digital onboarding application for new hires in the company. It uses digital forms, tax declarations and personal info.
@@ -62,6 +100,28 @@ The following projects that I've handled since I started writing in Swift.
   <img src="images/sqma6.png" width="200" />
 </p>
 
+### Seaplane Group Mobile - 2023
+
+##### Programming Language: React-Native
+##### Technologies Used: Axious, Redux.
+
+##### Role: Project Manager / Developer
+##### Team of 1 Developer.
+
+##### Description: A booking app for affordable luxury rides and ride-sharing.
+
+##### Responsible for leading code development, architecture design, testing, provide technical documentation and featuresm design UI/UX, design API Endpoints, bug fixes, code reviewer and Perform performance and security testing.
+
+##### Location: Hong Kong
+
+#### Link: https://apps.apple.com/ph/app/seaplane-mobile/id1639533976
+
+<p float="left">
+  <img src="images/sp.webp" width="200" />
+  <img src="images/sp1.webp" width="200" /> 
+  <img src="images/sp2.webp" width="200" />
+</p>
+
 ### Project Gemini - Digital Twin (2020)
 
 ##### Programming Language: C#
@@ -73,4 +133,5 @@ The following projects that I've handled since I started writing in Swift.
 ##### Location: Manila
 
 <img src="images/gemini.jpg" width="500" />
+
 
