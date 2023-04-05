@@ -1,5 +1,5 @@
-# Chi Shing Kent Jonathan Wan Completed Projects
-The following projects that I've handled since I started writing in Swift.
+# My Portfolio
+The following projects that I've handled since I started writing in Swift, Kotlin and React Native
 
 ### Credit Card Management (2019)
 
