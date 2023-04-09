@@ -1,7 +1,7 @@
 # My Portfolio
 The following projects that I've handled since I started writing in Swift, Kotlin and React Native
 
-### Credit Card Management (2019)
+### Japan Railway POC (2019)
 
 ##### Description: An application that monitors user's Credit Card usage and activities. 
 
