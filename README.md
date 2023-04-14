@@ -100,6 +100,29 @@ The following projects that I've handled since I started writing in Swift, Kotli
   <img src="images/sqma6.png" width="200" />
 </p>
 
+### Cybersecurity Conference App
+
+##### Programming Language: React-Native, AWS (S3, Lambda Function, API Gateway, Cloudfront, IAM, Cloudwatch, Microsoft SQL).
+##### Technologies Used: SonarQube and K6 for Security and Performance Testing.
+
+##### Role: Full-Stack Engineer (Front-end, Back-end, UI/UX, Product Owner, Tester)
+##### Team of 1 Developers.
+
+##### Description: An annual cybersecurity conference event.
+
+##### Responsible for leading code development, architecture design, testing, provide technical documentation and featuresm design UI/UX, design API Endpoints, bug fixes, code reviewer and Perform performance and security testing.
+
+##### Location: Manila
+#### Link: https://apps.apple.com/ph/app/decode-mobile/id1592037312
+
+<p float="left">
+  <img src="images/decode1.webp" width="200" />
+  <img src="images/decode2.webp" width="200" />
+  <img src="images/decode3.webp" width="200" />
+  <img src="images/decode4.webp" width="200" />
+</p>
+
+
 ### Seaplane Group Mobile - 2023
 
 ##### Programming Language: React-Native
