@@ -68,7 +68,7 @@ The following projects that I've handled since I started writing in Swift, Kotli
 
 ##### Location: Australia, New Zealand
 
-##### Link: [AppStore Link](apps.apple.com/ph/app/dxc-onboard-me/id1513544909) 
+##### Link: https://play.google.com/store/apps/details?id=com.dxc.obm.obm_android&hl=en_SG&pli=1 , https://apps.apple.com/au/app/dxc-onboard-me/id1513544909 
 
 <p float="left">
   <img src="images/screen1.gif" width="200" />
