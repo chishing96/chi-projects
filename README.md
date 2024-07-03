@@ -145,17 +145,6 @@ The following projects that I've handled since I started writing in Swift, Kotli
   <img src="images/sp2.webp" width="200" />
 </p>
 
-### Project Gemini - Digital Twin (2020)
-
-##### Programming Language: C#
-
-##### Tech: Unity3D
-
-##### Description: Gamified application that is connected to Rasperberry PI and hosted in AWS to stream Network Data. Suggests smart recommendations of an office network floor.
-
-##### Location: Manila
-
-HELLo
 ### DragonFi 2.0 - Stocks and Funds Group Mobile - 2024
 
 ##### Programming Language: React-Native
@@ -179,7 +168,5 @@ HELLo
   <img src="images/df4.png" width="200" />
 </p>
 
-
-<img src="images/gemini.jpg" width="500" />
 
 
