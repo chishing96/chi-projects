@@ -166,6 +166,9 @@ The following projects that I've handled since I started writing in Swift, Kotli
   <img src="images/df2.png" width="200" /> 
   <img src="images/df3.png" width="200" />
   <img src="images/df4.png" width="200" />
+  <img src="images/df5.png" width="200" />
+  <img src="images/df6.png" width="200" />
+  <img src="images/df7.png" width="200" />
 </p>
 
 
