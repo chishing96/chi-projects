@@ -145,7 +145,7 @@ The following projects that I've handled since I started writing in Swift, Kotli
   <img src="images/sp2.webp" width="200" />
 </p>
 
-### DragonFi 2.0 - Stocks and Funds Group Mobile - 2024
+### DragonFi 2.0 - Stocks and Funds Group Mobile - 2024 (Most Proud of)
 
 ##### Programming Language: React-Native
 ##### Technologies Used: Axios, Zustand, Expo, TypeScript, WebSockets.
