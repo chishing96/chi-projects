@@ -155,6 +155,24 @@ The following projects that I've handled since I started writing in Swift, Kotli
 
 ##### Location: Manila
 
+HELLo
+### DragonFi 2.0 - Stocks and Funds Group Mobile - 2024
+
+##### Programming Language: React-Native
+##### Technologies Used: Axios, Zustand, Expo, TypeScript, WebSockets.
+
+##### Role: Developer
+##### Team of 1 Developer.
+
+##### Description: A booking app for Trading Stocks and Funds.
+
+##### Responsible for leading code development, architecture design, testing, provide technical documentation and featuresm design UI/UX, design API Endpoints, bug fixes, code reviewer and Perform performance and security testing.
+
+##### Location: Manila
+
+#### Link: [https://apps.apple.com/ph/app/seaplane-mobile/id1639533976](https://apps.apple.com/ph/app/dragonfi-2-0-stocks-funds/id6462978863)
+
+
 <img src="images/gemini.jpg" width="500" />
 
 
