@@ -172,6 +172,12 @@ HELLo
 
 #### Link: [https://apps.apple.com/ph/app/seaplane-mobile/id1639533976](https://apps.apple.com/ph/app/dragonfi-2-0-stocks-funds/id6462978863)
 
+<p float="left">
+  <img src="images/df1.png" width="200" />
+  <img src="images/df1.png" width="200" /> 
+  <img src="images/df1.png" width="200" />
+</p>
+
 
 <img src="images/gemini.jpg" width="500" />
 
